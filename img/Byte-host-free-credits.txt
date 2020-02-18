@@ -1,0 +1,59 @@
+FTP Settings:
+FTP user name	b5_25219116
+FTP password	abzinid90
+FTP host name	ftp.byethost.com
+FTP port	21
+
+FTP software:
+
+MySQL Settings
+MySQL user name	b5_25219116
+MySQL password	abzinid90
+MySQL host name	sql213.byethost.com
+MySQL port	3306
+MySQL databases	
+MySQL external access
+
+
+DNS / Name servers:
+
+Name servers for addon
+and parked domains
+ns1.byet.org
+ns2.byet.org
+ns3.byet.org
+ns4.byet.org
+ns5.byet.org
+
+
+Your Domains
+
+Sub domains
+Addon domains	
+Parked domains on account	
+
+
+PHP Setting
+
+Safe mode
+Off
+cURL
+Enabled
+Fsocket functions
+Enabled
+Register globals
+Off
+PHP version
+7.0  
+Mod_rewrite & .htaccess
+Enabled
+Ioncube & Zend
+Enabled
+GD Library
+Enabled
+ImageMagik
+Off
+Phpinfo()
+View your phpinfo()
+
+ 
