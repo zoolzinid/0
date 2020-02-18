@@ -1,0 +1,15 @@
+name: zile
+title: "Abzinid Android and Tutorials"
+tagline: ""
+description: " "
+locale: 'en'
+#
+markdown: kramdown
+#
+include: [_redirects]
+#
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .jekyll-cache
